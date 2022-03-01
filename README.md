@@ -1,2 +1,2 @@
 # wordle_killer
-Hebrew Wordle solver
+Hebrew [Wordle](https://wordleheb.web.app/) solver
